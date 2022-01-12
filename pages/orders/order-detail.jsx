@@ -15,7 +15,7 @@ const OrderDetailPage = () => {
         <ContainerDefault title="Order Detail">
             <HeaderDashboard
                 title="Order Detail"
-                description="Martfury Order Detail"
+                description="GIS Order Detail"
             />
             <section className="ps-dashboard">
                 <div className="ps-section__left">

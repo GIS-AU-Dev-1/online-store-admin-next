@@ -11,7 +11,7 @@ const withImages = require('next-images');
 
 const nextSettings = {
     env: {
-        title: 'Martfury',
+        title: 'GIS',
         titleDescription: 'Admin Template',
     },
 };

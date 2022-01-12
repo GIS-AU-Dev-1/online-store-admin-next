@@ -12,12 +12,12 @@ const StyleSheets = () => (
         <link rel="icon" href="/static/img/favi.png" sizes="192x192" />
         <link rel="apple-touch-icon-precomposed" href="/static/img/favi.png" />*/}
         <meta name="author" content="nouthemes" />
-        <meta name="keywords" content="Martfury, react, ecommerce, Template" />
+        <meta name="keywords" content="GIS, react, ecommerce, Template" />
         <meta
             name="description"
-            content="Martfury - React eCommerce Template"
+            content="GIS - React eCommerce Template"
         />
-        <title>Martfury | React eCommerce Admin Template</title>
+        <title>GIS | React eCommerce Admin Template</title>
         <link
             href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700&amp;amp;subset=latin-ext"
             rel="stylesheet"

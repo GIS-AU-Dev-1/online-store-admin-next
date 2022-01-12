@@ -18,7 +18,7 @@ const OrdersPage = () => {
         <ContainerDefault>
             <HeaderDashboard
                 title="Orders"
-                description="Martfury Orders Listing"
+                description="GIS Orders Listing"
             />
             <section className="ps-items-listing">
                 <div className="ps-section__header simple">
